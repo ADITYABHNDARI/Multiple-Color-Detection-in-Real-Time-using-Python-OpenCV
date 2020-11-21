@@ -2,6 +2,7 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/opencv-python?color=%2319dfc7&logo=python&logoColor=yellow&style=plastic)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ADITYABHNDARI/Multiple-Color-Detection-in-Real-Time-using-Python-OpenCV?color=%23998dda&style=plastic)
 ![Hex.pm](https://img.shields.io/hexpm/l/plug)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal&style=flat-square)](https://paypal.me/iAdityaBhandari/100)&nbsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/ADITYABHNDARI/Multiple-Color-Detection-in-Real-Time-using-Python-OpenCV?color=%23ff6f69&logo=github&style=plastic)
 ## Installation
 
